@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Projeto Palavra secreta</h1> 
-  <img width="80px" height="80px" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif">
+  <img width="400px" height="200px" src="public/palavra.gif">
   <p>Projeto desenvolvido para aprimorar habilidades em desenvolvimento front-end utilizando ReactJS.</p>
 </div>
 
@@ -24,4 +24,4 @@ Este projeto é um jogo de adivinhação da palavra. Nele possuímos 3 chances p
 
 ## Preview
 
-<img src="images/DarkSoulsClone - index.png" alt="Captura de tela do projeto">
+<img src="public/palavra-secreta.png" alt="Captura de tela do projeto">
