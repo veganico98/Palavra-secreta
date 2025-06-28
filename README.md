@@ -1,12 +1,27 @@
-# React + Vite
+<div align="center">
+  <h1>Projeto Palavra secreta</h1> 
+  <img width="80px" height="80px" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif">
+  <p>Projeto desenvolvido para aprimorar habilidades em desenvolvimento front-end utilizando ReactJS.</p>
+</div>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Sobre o Projeto
 
-## Expanding the ESLint configuration
+Este projeto é um jogo de adivinhação da palavra. Nele possuímos 3 chances para acertar as letras corretas. Cada rodada acumulamos mais pontos para podermos competir com um amigo sobre quem faz a maior pontuação. Foi criado com o objetivo de praticar e demonstrar conhecimentos em tecnologias front-end, com foco em aprimorar meus conhecimentos em ReactJS.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tecnologias Utilizadas
+
+- **HTML5** – estrutura da página
+- **CSS3** – estilização personalizada
+- **React** - Framework utilizado para dividir funcionalidades em componentes.
+- **JS** – Back-end.
+
+---
+
+## Preview
+
+<img src="images/DarkSoulsClone - index.png" alt="Captura de tela do projeto">
